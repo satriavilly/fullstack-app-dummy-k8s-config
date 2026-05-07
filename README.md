@@ -1,0 +1,1 @@
+# fullstack-app-dummy-k8s-config
